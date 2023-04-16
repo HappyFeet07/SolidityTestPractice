@@ -26,7 +26,7 @@ const config: HardhatUserConfig = {
     "bsc-mainnet": {
       url: "https://rpc.ankr.com/bsc",
       chainId: 56,
-      accounts: accounts,
+      accounts: accounts || "",
     },
   },
   etherscan: {
