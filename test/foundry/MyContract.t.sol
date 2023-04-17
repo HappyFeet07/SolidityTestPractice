@@ -14,7 +14,7 @@ contract MyContractTest is Test {
     // TODO:
     // 1. Set user1, user2 
     // 2. Create a new instance of MyContract
-    // 3. (optional) Set user1 as bob, user2 as alice
+    // 3. (optional) label user1 as bob, user2 as alice
   }
 
   function testConstructor() public {
