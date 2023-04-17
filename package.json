@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@openzeppelin/contracts": "^4.8.2",
-    "@openzeppelin/contracts-upgradeable": "^4.8.2"
+    "@openzeppelin/contracts-upgradeable": "^4.8.2",
+    "@uniswap/v3-periphery": "github:Uniswap/v3-periphery#0.8"
   }
 }
