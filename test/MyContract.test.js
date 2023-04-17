@@ -23,5 +23,6 @@ describe("MyContract", () => {
     // TODO:
     // 1. Create a transaction to send 1 ether to instance
     // 2. expect the transaction to be successful
+    // 3. expect the instance's balance to change by 1 ether
   })
 })
