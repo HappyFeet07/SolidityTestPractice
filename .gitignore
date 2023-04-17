@@ -10,6 +10,5 @@ cache
 artifacts
 
 # foundry files
-lib/
 out/
 cache_forge/
